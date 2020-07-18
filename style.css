@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: white
+}
+
+html, body {
+    background-color: indianred;
+    text-align: center;
+
+}
+
+
+#navbar > ul {
+    display: flex;
+    justify-content: space-evenly
+    
+
+}
+
+
+
+p {
+    text-align: center;
+
+    color: white;
+
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+
+ol {
+    text-align: center;
+    color: purple
+}
+
+li {
+    text-align: center;
+
+}
+
+h4 {
+    text-align: center;
+    color: pink
+}
+
+a {
+    color: purple;
+
+}
+
+
